@@ -85,5 +85,4 @@ pickMode.pack(side=tk.TOP)
 clearButton = tk.Button(root, text="Clear", command=clear_entry)
 clearButton.pack(side=tk.TOP)
 
-root.mainloop()
-#
+root.mainloop()#test
